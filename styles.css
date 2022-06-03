@@ -1,2 +1,7 @@
-body {
+.lien_masque {
+  display: none;
+}
+
+.icone_rouge {
+  color: red;
 }
